@@ -19,4 +19,4 @@
 ![gambar](ss/ss5.png)
 ##### program menentukan bilangan terbesar sampai di input bilangan 0
 ![gambar](ss/ss6.png)
-##### program menghitung laba berdasarkan skenario yang di tentukan 
+##### program menghitung laba berdasarkan skenario yang di tentukan
