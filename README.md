@@ -15,3 +15,8 @@
 ![gambar](ss/ss3.png)
 ##### sedangkan untuk bilangan ketiga yang terbesar jika program di jalankan
 ![gambar](ss/ss4.png)
+##### program menampilkan n bilangan acak yang lebih kecil dari 0.5
+![gambar](ss/ss5.png)
+##### program menentukan bilangan terbesar sampai di input bilangan 0
+![gambar](ss/ss6.png)
+##### program menghitung laba berdasarkan skenario yang di tentukan 
